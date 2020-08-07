@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    instagram_basic_display_api (0.0.1)
+    instagram_basic_display_api (0.0.2)
       faraday (~> 1)
       faraday_middleware (~> 1)
 
